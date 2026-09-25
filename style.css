@@ -1,0 +1,66 @@
+
+
+
+            
+            h1{
+                background : rgb(25, 59, 133);
+                color:white;}
+                
+            
+            
+            .Bali{color: rgb(15, 8, 148);}
+            
+            
+            .visiting-Bali{background : rgb(25, 59, 133);
+                color:white;
+                
+            }
+            
+            
+        #table{
+             background : rgb(25, 59, 133);
+                color:white;
+                
+        }
+            
+            .Region { background : rgb(25, 59, 133);
+                color:white;
+        }
+                
+            
+            
+            .nature { background : rgb(25, 59, 133);
+                color:white;
+                
+            }
+            
+            
+            body{
+                background :rgb(242, 244, 247);
+                
+                border:5px solid rgb(133, 104, 196);
+                padding:20px;
+                margin:20px;
+                
+            }
+            
+            p{
+                font-size:14px;
+                font-family:Arial;
+            }
+            
+            
+            span { color:rgb(24, 136, 158);
+                
+            }
+                .veiw{ display:block;
+                     margin:0 auto;
+                    
+                }
+                
+                p{
+                    text-align:left;
+                }
+            
+           
+        
